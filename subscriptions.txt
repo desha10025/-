@@ -7,3 +7,11 @@ Currently open: 0
 Subscription days: 1
 Started: 2026-10-31 11:09 UTC (1793444982)
 Sessions: 
+
+the name: جهازي التانى
+user: 123
+password: 123
+HWID: 178BFBFF00100F43;2UA1170NTW
+Number of users: 1
+Currently open: 0
+Subscription days: 1m
