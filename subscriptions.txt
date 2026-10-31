@@ -1,62 +1,7 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+the name: ديشا
+user: 01019913979
+password: naruto123
+HWID: BFEBFBFF000206A7;CZC2296ZJC
+Number of users: 1
+Currently open: 0
+Subscription days: 1
