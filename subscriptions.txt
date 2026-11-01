@@ -41,7 +41,7 @@ user: 321
 password: 321
 HWID: 178BFBFF00100F43;2UA1170NTW
 Number of users: 2
-Currently open: 0
+Currently open: 1
 Subscription days: 30
 Started: 2026-11-01 20:50 UTC (1793566216)
-Sessions: 
+Sessions: 178bfbff00100f43;2ua1170ntw~1793566464
