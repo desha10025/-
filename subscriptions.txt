@@ -31,5 +31,7 @@ user: 147
 password: 147
 HWID: 178BFBFF00100F43;2UA1170NTW
 Number of users: 1
-Currently open: 0
+Currently open: 1
 Subscription days: 1m
+Started: 2026-11-01 18:02 UTC (1793556167)
+Sessions: 178bfbff00100f43;2ua1170ntw~1793556167
