@@ -14,4 +14,4 @@ password: 123
 HWID: af5d237e-de89-4aae-9b29-0b608ef8f5a3;
 Number of users: 1
 Currently open: 0
-Subscription days: 1
+Subscription days: unlimited
