@@ -25,3 +25,11 @@ HWID: 111111111111111111111
 Number of users: 2
 Currently open: 0
 Subscription days: 30
+
+the name: جهازي التانى
+user: 147
+password: 147
+HWID: 178BFBFF00100F43;2UA1170NTW
+Number of users: 1
+Currently open: 0
+Subscription days: 1m
