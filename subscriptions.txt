@@ -3,10 +3,10 @@ user: 01019913979
 password: naruto123
 HWID: BFEBFBFF000206A7;CZC2296ZJC
 Number of users: 1
-Currently open: 0
+Currently open: 1
 Subscription days: 10
 Started: 2026-10-31 11:09 UTC (1793444982)
-Sessions: 
+Sessions: bfebfbff000206a7;czc2296zjc~1793999557
 
 the name: اسامه سوجو المتناك
 user: 123
