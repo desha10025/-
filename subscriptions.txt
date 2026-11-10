@@ -4,7 +4,7 @@ password: naruto123
 HWID: BFEBFBFF000206A7;CZC2296ZJC
 Number of users: 1
 Currently open: 0
-Subscription days: 10
+Subscription days: 50
 Started: 2026-10-31 11:09 UTC (1793444982)
 Sessions: 
 
