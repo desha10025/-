@@ -14,7 +14,7 @@ password: 123
 HWID: BFEBFBFF00020652;1ZHRR04L6VU
 Number of users: 1
 Currently open: 1
-Subscription days: 10
+Subscription days: 15
 Started: 2026-11-01 17:04 UTC (1793552680)
 Sessions: bfebfbff00020652;1zhrr04l6vu~1794321328
 
