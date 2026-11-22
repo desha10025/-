@@ -45,3 +45,11 @@ Currently open: 0
 Subscription days: 50
 Started: 2026-11-03 09:33 UTC (1793698396)
 Sessions: 
+
+the name: اسامه المتنيك
+user: 159
+password: 159
+HWID: BFEBFBFF00020652;1ZHRR04L6VU
+Number of users: 2
+Currently open: 0
+Subscription days: 30
